@@ -14,7 +14,9 @@ from cinema.serializers import (
     MovieSessionListSerializer,
     MovieDetailSerializer,
     MovieSessionDetailSerializer,
-    MovieListSerializer, OrderSerializer, OrderCreateSerializer,
+    MovieListSerializer,
+    OrderSerializer,
+    OrderCreateSerializer,
 )
 
 
